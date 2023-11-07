@@ -1,0 +1,14 @@
+^CODE_OF_CONDUCT\.md$
+^LICENSE\.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^README\.Rmd$
+0UpdateWithGit.bat
+1UpdateGit.bat
+2PushToGitHub.bat
+3ViewOnGitHub.url
+4PullingFromGitHub.bat
+.url$
+.lnk$
+.bak$
